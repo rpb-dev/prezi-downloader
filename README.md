@@ -1,5 +1,6 @@
 # Prezi-Downloader
 
+```
 Usage: index.js download [url] [options]
 
 Commands:
@@ -13,3 +14,4 @@ Options:
                                                            [number] [default: 0]
   -b, --background  Will the downloader hide itself?[boolean] [default: "false"]
   -h, --help        Show help                                           [number]
+  ```
